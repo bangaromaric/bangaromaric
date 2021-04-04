@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello geeks 👋
 
-<!--
-**bangaromaric/bangaromaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🇱🇷
+I'm Associate Android Developers & UX/UI Designer, I love learn and share my experiences through my [talks](https://github.com/bangaromaric/romaric-banga) repo that I update on occasion. 
+I organize some events for [Google Developers Groups Libreville](https://gdg.community.dev/gdg-libreville/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Google Products user, I'm OpenSourceEnthusiast, I love jokes, Manga and Gaming. If you would like to discuss these things, 
+you can join follow me on [Twitter](https://twitter.com/bangaromaric). You can also ask me anything (within reason).
+
+My inspirations: [Mr Masashi Kishimoto](https://fr.wikipedia.org/wiki/Masashi_Kishimoto), [Kōhei Horikoshi](https://fr.wikipedia.org/wiki/K%C5%8Dhei_Horikoshi)
+
+
+# 🇫🇷
+e suis développeur Android associé et concepteur UX / UI, j'adore apprendre et partager mes expériences [talks](https://github.com/bangaromaric/romaric-banga) 
+repo que je mets à jour à l'occasion. J'organise des événements pour [Google Developers Groups Libreville](https://gdg.community.dev/gdg-libreville/)
+
+Je suis un utilisateur de Google Products, je suis OpenSourceEnthusiast, j'adore les blagues, 
+les mangas et les jeux. Si vous souhaitez discuter de ces choses, vous pouvez rejoindre suivez-moi sur [Twitter](https://twitter.com/bangaromaric) Vous pouvez également me demander n'importe quoi (dans la limite du raisonnable).
+
+Mes inspirations: [Mr Masashi Kishimoto](https://fr.wikipedia.org/wiki/Masashi_Kishimoto), [Kōhei Horikoshi](https://fr.wikipedia.org/wiki/K%C5%8Dhei_Horikoshi)
