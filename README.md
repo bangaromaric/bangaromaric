@@ -12,7 +12,7 @@ My inspirations: [Mr Masashi Kishimoto](https://fr.wikipedia.org/wiki/Masashi_Ki
 
 
 # 🇫🇷
-je suis développeur Android associé et concepteur UX / UI, j'adore apprendre et partager mes expériences [talks](https://github.com/bangaromaric/romaric-banga) 
+Je suis développeur Android associé et concepteur UX / UI, j'adore apprendre et partager mes expériences [talks](https://github.com/bangaromaric/romaric-banga) 
 repo que je mets à jour à l'occasion. J'organise des événements pour [Google Developers Groups Libreville](https://gdg.community.dev/gdg-libreville/)
 
 Je suis un utilisateur de Google Products, je suis OpenSourceEnthusiast, j'adore les blagues, 
