@@ -1,7 +1,7 @@
 # Hello geeks 👋
 
 # 🇱🇷
-I'm Associate Android Developers & UX/UI Designer, I love learn and share my experiences through my [talks](https://github.com/bangaromaric/romaric-banga) repo that I update on occasion. 
+I'm [Associate Android Developers](https://scl.io/kngt3cO) & UX/UI Designer, I love learn and share my experiences through my [talks](https://github.com/bangaromaric/romaric-banga) repo that I update on occasion. 
 I organize some events for [Google Developers Groups Libreville](https://gdg.community.dev/gdg-libreville/)
 
 
