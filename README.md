@@ -1,6 +1,7 @@
 # Hello geeks 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangaromaric&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bangaromaric)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bangaromaric&show_icons=true)
+
 
 # 🇱🇷
 I'm [Associate Android Developers](https://scl.io/kngt3cO) & UX/UI Designer, I love learn and share my experiences through my [talks](https://github.com/bangaromaric/romaric-banga) repo that I update on occasion. 
