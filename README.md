@@ -1,6 +1,6 @@
 # Hello geeks 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangaromaric)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangaromaric&show_icons=true)
 # 🇱🇷
 I'm [Associate Android Developers](https://scl.io/kngt3cO) & UX/UI Designer, I love learn and share my experiences through my [talks](https://github.com/bangaromaric/romaric-banga) repo that I update on occasion. 
 I organize some events for [Google Developers Groups Libreville](https://gdg.community.dev/gdg-libreville/)
