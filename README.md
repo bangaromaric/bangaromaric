@@ -4,7 +4,7 @@
 
 
 # 🇱🇷
-I'm [Associate Android Developers](https://scl.io/kngt3cO) & UX/UI Designer, I love learn and share my experiences through my [talks](https://github.com/bangaromaric/romaric-banga) repo that I update on occasion. 
+I'm [Associate Android Developers](https://scl.io/kngt3cO) and Spring Developer, I love learn and share my experiences through my [talks](https://github.com/bangaromaric/romaric-banga) repo that I update on occasion. 
 I organize some events for [Google Developers Groups Libreville](https://gdg.community.dev/gdg-libreville/)
 
 
@@ -15,7 +15,7 @@ My inspirations: [Mr Masashi Kishimoto](https://fr.wikipedia.org/wiki/Masashi_Ki
 
 
 # 🇫🇷
-Je suis développeur Android associé et concepteur UX / UI, j'adore apprendre et partager mes expériences [talks](https://github.com/bangaromaric/romaric-banga) 
+Je suis développeur Android associé et Spring Developer, j'adore apprendre et partager mes expériences [talks](https://github.com/bangaromaric/romaric-banga) 
 repo que je mets à jour à l'occasion. J'organise des événements pour [Google Developers Groups Libreville](https://gdg.community.dev/gdg-libreville/)
 
 Je suis un utilisateur de Google Products, je suis OpenSourceEnthusiast, j'adore les blagues, 
