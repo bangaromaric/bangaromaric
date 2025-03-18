@@ -9,7 +9,7 @@ I organize some events for [Google Developers Groups Libreville](https://gdg.com
 
 
 I'm Google Products user, I'm OpenSourceEnthusiast, I love jokes, Manga and Gaming. If you would like to discuss these things, 
-you can join follow me on [Twitter](https://twitter.com/bangaromaric). You can also ask me anything (within reason).
+you can join follow me on [Linkedin](https://www.linkedin.com/in/romaric-banga/) and [Twitter](https://twitter.com/bangaromaric) . You can also ask me anything (within reason).
 
 My inspirations: [Mr Masashi Kishimoto](https://fr.wikipedia.org/wiki/Masashi_Kishimoto), [Kōhei Horikoshi](https://fr.wikipedia.org/wiki/K%C5%8Dhei_Horikoshi)
 
@@ -19,6 +19,6 @@ Je suis développeur Android associé et Spring Developer, j'adore apprendre et 
 repo que je mets à jour à l'occasion. J'organise des événements pour [Google Developers Groups Libreville](https://gdg.community.dev/gdg-libreville/)
 
 Je suis un utilisateur de Google Products, je suis OpenSourceEnthusiast, j'adore les blagues, 
-les mangas et les jeux. Si vous souhaitez discuter de ces choses, vous pouvez rejoindre suivez-moi sur [Twitter](https://twitter.com/bangaromaric) Vous pouvez également me demander n'importe quoi (dans la limite du raisonnable).
+les mangas et les jeux. Si vous souhaitez discuter de ces choses, vous pouvez rejoindre suivez-moi sur [Linkedin](https://www.linkedin.com/in/romaric-banga/) et [Twitter](https://twitter.com/bangaromaric) Vous pouvez également me demander n'importe quoi (dans la limite du raisonnable).
 
 Mes inspirations: [Mr Masashi Kishimoto](https://fr.wikipedia.org/wiki/Masashi_Kishimoto), [Kōhei Horikoshi](https://fr.wikipedia.org/wiki/K%C5%8Dhei_Horikoshi)
